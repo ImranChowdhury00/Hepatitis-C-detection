@@ -1,5 +1,11 @@
 # Hepatitis-C-detection
-CSE445 : Machine Learning Project<br> 
+<h2>CSE445 : Machine Learning Project<br> </h2>
+<h1>Project : Detection of Hepatitis C and it's Classification</h1> <br> 
 Contributor :
-<h1>Imran (Team Leader)</h1>
-<h2>Asir</h2> 
+<ul>
+  <li>Imran (Team Leader) </li>
+  <li> Asir </li>
+</ul>
+
+
+
